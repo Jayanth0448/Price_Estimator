@@ -51,7 +51,6 @@ All models are merged to produce a stable, accurate final estimated price.
 - **ChromaDB** for vector search
 - **Modal** for serverless execution
 - **W&B** for experiment tracking
-- **GitHub Actions** (optional)
 - **JSON-based persistent storage**
 
 ---
